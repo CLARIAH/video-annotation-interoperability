@@ -1,0 +1,641 @@
+[
+  {
+    "first": {
+      "items": [
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/0"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/1"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/2"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/3"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/4"
+        }
+      ],
+      "type": "AnnotationPage",
+      "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1",
+      "startIndex": 0
+    },
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "label": "Gaudenz Halter",
+    "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/",
+    "type": "AnnotationCollection",
+    "total": 1
+  },
+  {
+    "first": {
+      "items": [
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Additional_notes/1/0"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/Additional_notes/1/1"
+        }
+      ],
+      "type": "AnnotationPage",
+      "id": "Gaudenz_Halter:Netflix4/Additional_notes/1",
+      "startIndex": 0
+    },
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "label": "Gaudenz Halter",
+    "id": "Gaudenz_Halter:Netflix4/Additional_notes/",
+    "type": "AnnotationCollection",
+    "total": 1
+  },
+  {
+    "first": {
+      "items": [
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/New_Layer/1/0"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/New_Layer/1/1"
+        }
+      ],
+      "type": "AnnotationPage",
+      "id": "Gaudenz_Halter:Netflix4/New_Layer//1",
+      "startIndex": 0
+    },
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "label": "Gaudenz Halter",
+    "id": "Gaudenz_Halter:Netflix4/New_Layer/",
+    "type": "AnnotationCollection",
+    "total": 1
+  },
+  {
+    "first": {
+      "items": [
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/All_Shots/1/0"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/All_Shots/1/1"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/All_Shots/1/2"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/All_Shots/1/3"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/All_Shots/1/4"
+        },
+        {
+          "type": "Annotation",
+          "id": "Gaudenz_Halter:Netflix4/All_Shots/1/5"
+        }
+      ],
+      "type": "AnnotationPage",
+      "id": "Gaudenz_Halter:Netflix4/All_Shots//1",
+      "startIndex": 0
+    },
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "label": "Gaudenz Halter",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/",
+    "type": "AnnotationCollection",
+    "total": 1
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=0.0,16.39",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/0",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "A First Sequence\n",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=16.39,30.075",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/1",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "A second Sequence\n",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=30.107,50.209",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/2",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Very interesting Stuff\n",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=50.209,79.907",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/3",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Not interesting\n",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=79.907,120.804",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Main_Segmentation/1/4",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Not even worth the storage",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=10.854,13.905",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Additional_notes/1/0",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "She drinks white wine",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=19.945,21.927",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/Additional_notes/1/1",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Matt Fowler's Comment",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "refinedBy": {
+          "type": "SvgSelector",
+          "value": "<rect x='223' y=' 170' width='319.1538461538462' height='173.11834319526628' style='stroke: #ff00ff; fill: none;' > "
+        },
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=8.2,16.0",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/New_Layer/1/0",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Rectangle",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "refinedBy": {
+          "type": "SvgSelector",
+          "value": "<rect x='280' y=' 49' width='343.0' height='345.0' style='stroke: #ff00ff; fill: none;' > "
+        },
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=23.5,44.1",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "describing",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/New_Layer/1/1",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Ellipse",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=9.3,9.3",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "highlighting",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/1/0",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Screenshot",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=27.2,27.2",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "highlighting",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/1/1",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Screenshot",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=47.7,47.7",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "highlighting",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/1/2",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Screenshot",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=64.6,64.6",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "highlighting",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/1/3",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Screenshot",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=89.7,89.7",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "highlighting",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/1/4",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Screenshot",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  },
+  {
+    "creator": {
+      "email_sha1": "2f10b5e6be8abd7887531edb0ffcee74105b1cff",
+      "type": "Person",
+      "name": "Gaudenz Halter"
+    },
+    "target": {
+      "type": "Video",
+      "id": "trailer.mp4",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "trailer.mp4#t=112.1,112.1",
+        "conformsTo": "http://www.w3.org/TR/media-frags/"
+      }
+    },
+    "motivation": "highlighting",
+    "type": "Annotation",
+    "context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "Gaudenz_Halter:Netflix4/All_Shots/1/5",
+    "body": {
+      "type": "TextualBody",
+      "format": "text/plain",
+      "purpose": "describing",
+      "value": "Screenshot",
+      "language": "en"
+    },
+    "generator": {
+      "type": "Software",
+      "homepage": "https://github.com/ghalter/VIAN/",
+      "name": "VIAN_0.7.1",
+      "id": "VIAN"
+    }
+  }
+]
