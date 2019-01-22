@@ -24,5 +24,5 @@ The draft crosswalks and application profile will then be distributed for broade
 
 The schema crosswalks and application profiles will be published on GitHub and will be actively promoted to encourage uptake and reuse.
 
-+ the [draft implementation of the data model](data/unified_v0.1.json) was written by John P. Bell (see [novomancy/webannotation](https://github.com/novomancy/webannotation))
++ the [draft implementation of the data model](data/example_annotation.json) was written by John P. Bell (see [novomancy/webannotation](https://github.com/novomancy/webannotation) for the [original document](https://github.com/novomancy/webannotation/blob/master/unified_v0.1.json))
 
