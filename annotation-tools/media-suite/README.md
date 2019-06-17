@@ -1,5 +1,16 @@
 
+# Importing between W3C & the media suite
+
+This following example shows what happens when:
+1. the media suite would import a W3C annotation (representing a comment/text)
+2. the media suite would export the example annotation to a W3C annotation (representing a comment/text)
+
+
 ## Media suite example annotation
+
+This is an example annotation with mulitiple bodies. Each body is of a different type; all different types are in this example.
+Furthermore this example shows the use of the NestedPIDSelector to add information to how the target (program segment recorded on a carrier) is structurally related
+to a program metadata record, which in turn is part of a television archive.
 
 ```
  {
@@ -99,9 +110,44 @@
 }
 
 ```
+## Example W3C annotation
+
+This is a simple text annotation targetting a media fragment
 
 
-## Importing between W3C & the media suite
+```
+{
+	"@context": "http://www.w3.org/ns/anno.jsonld",
+	"id": 26,
+	"type": "Annotation",
+	"motivation": "highlighting",
+	"creator": {
+    	"type": "Person",
+    	"nickname": "John Bell",
+    	"email": "2bb2a925eb5ac9fd97fc4c041fabc050f194392d"
+	},
+	"body": [
+    	{
+        	"type": "TextualBody",
+        	"value": "This clip was filmed at the Parker Center...",
+        	"format": "text/plain",
+        	"language": "en",
+        	"purpose": "describing"
+    	}
+	],
+	"target": {
+    	"id": "http://mediaecology.dartmouth.edu/other/KTLAEulaLove.mp4",
+    	"type": "Video",
+    	"selector": [
+        	{
+            	"type": "FragmentSelector",
+            	"conformsTo": "http://www.w3.org/TR/media-frags/",
+            	"value": x"t=12.0,19.0"
+        	}
+    	]
+	}
+}
+```
 
 ### What happens on import?
 
