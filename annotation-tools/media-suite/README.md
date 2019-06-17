@@ -1,4 +1,106 @@
 
+## Media suite example annotation
+
+```
+ {
+ 	"id": "an-f4fc9740-16d6-41e7-a260-90886b6c32bc",
+    "created": "2018-07-10T07:42:50Z",
+    "modified": "2018-07-10T08:17:37Z",
+    "user": "clariah_test",
+    "project": "2951cacc-8721-4b34-b8ee-664057d4584d",
+    "body": [
+        {
+        	"annotationId": "eb659a23-9e7e-4776-b490-fde677a51475",
+        	"annotationType": "comment",
+            "created": "2018-07-10T07:42:50Z",
+            "user": "clariah_test",
+            "text": "track1"
+        },
+        {
+        	"annotationId": "5cf9556d-3415-49b2-b99d-5aeccc85bbb0",
+            "annotationType": "classification",
+            "created": "2018-07-10T08:17:37Z",
+            "user": "clariah_test",
+            "vocabulary": "GTAA",
+            "label": "aardewerk",
+            "id": "http://data.beeldengeluid.nl/gtaa/28657"
+        },
+        {
+        	"annotationId": "6c7f4521-c863-4483-abb1-ae53c1f00409",
+            "annotationType": "link",
+            "created": "2018-07-10T08:17:37Z",
+            "user": "clariah_test",
+            "url": "http://www.nu.nl",
+            "label": "test link"
+        },
+        {
+        	"annotationId": "0d638b15-6476-40f7-9dd0-fe2e9fb12e73",
+            "annotationType": "metadata",
+            "created": "2018-07-10T08:17:37Z",
+            "user": "clariah_test",
+            "annotationTemplate": "generic",
+            "properties": [
+                {
+                    "value": "Een interessant programma",
+                    "key": "title"
+                },
+                {
+                    "value": "We kijken met plezier",
+                    "key": "description"
+                },
+                {
+                    "value": "1980-03-04",
+                    "key": "date"
+                }
+            ]
+        }
+    ],
+    "target": {
+        "assetId": "ACTTWEEVANDAA-HRE0003FE45",
+        "source": "http://play-proxy.clariah.nl/api/play/beng-video/65FG4111FSI.BBEOBWFFXUUDB",
+        "type": "Segment",
+        "selector": {
+            "type": "NestedPIDSelector",
+            "value": [
+                {
+                    "property": "isPartOf",
+                    "type": [
+                        "Collection"
+                    ],
+                    "id": "nisv-catalogue-aggr-full-18-158"
+                },
+                {
+                    "property": "isPartOf",
+                    "type": [
+                        "Resource"
+                    ],
+                    "id": "50263@program"
+                },
+                {
+                    "property": "isRepresentation",
+                    "type": [
+                        "Representation",
+                        "MediaObject",
+                        "Video",
+                        "Segment"
+                    ],
+                    "id": "ACTTWEEVANDAA-HRE0003FE45"
+                }
+            ],
+            "refinedBy": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "start": 1369.024871,
+                "end": 1429.976665,
+                "value": "#t=1369.024871,1429.976665",
+                "type": "FragmentSelector"
+            }
+        }
+    }
+}
+
+```
+
+
 ## Importing between W3C & the media suite
 
 ### What happens on import?
