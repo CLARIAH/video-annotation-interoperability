@@ -1,0 +1,287 @@
+[
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 622,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Bowl containing gelatin capsules holding names of draft registrants for drawing",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Object"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='31.38888888888889,68.39506172839508 34.860026041666664,52.46913580246913 37.84722222222222,45.80246913580247 35.69444444444444,39.62962962962963 38.68055555555555,35.55555555555556 48.75,32.592592592592595 59.65277777777778,34.93827160493827 62.36111111111111,38.51851851851852 59.72222222222222,45.925925925925924 63.19444444444444,51.85185185185185 66.25,67.65432098765433 61.24999999999999,87.90123456790124 49.72222222222222,94.07407407407408 37.5,90.8641975308642' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=116.42,117.66"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 624,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Close-up of the President, Woodrow Wilson, speaking. Profile view.",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Historical Figure"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='12.7392578125,29.6875 30.58837890625,53.75868055555555 42.880859375,36.6015625 37.4609375,-0.6770833333333333 12.18505859375,-0.4296874999999998' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=33.25,37.86"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 625,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Close-up of draft classification card; \"Local board, Division 148, New York City, James Evers\"",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Object"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='18.680555555555557,11.234567901234566 80.7638888888889,12.839506172839506 80.62500000000001,78.64197530864199 17.5,78.51851851851853' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=406.29,413.5"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 627,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "President Theodore Roosevelt, standing with (from left to right) Rear Admiral Usher, Major General Bell, Mayor Mitchell, and Charles E. Hughes",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Historical Figure"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='43.29833984375,69.19704861111111 56.5625,67.46527777777779 60.17333984375001,41.171875 58.29833984375,36.354166666666664 54.61669921874999,33.763020833333336 56.21337890625,29.19704861111111 55.93750000000001,27.34375 54.755859375,25.73784722222222 54.27001953125,21.29340277777778 49.4775390625,21.046006944444446 48.92333984375,25 46.9091796875,27.22222222222222' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=497.5,499.6"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 628,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Theodore Roosevelt, medium shot, \"talking to men in uniform\" during military parade",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Historical Figure"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='31.630859375,52.28298611111111 43.57421875,62.65190972222222 51.69921874999999,35.24305555555555 46.3525390625,15.368923611111109 34.6875,14.379340277777777 32.46337890625,19.813368055555557' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=538.3,548.5"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 629,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Cook serving food at military barracks to new arrivals",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Action"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='38.505859375,100.18229166666667 37.04833984375,66.35416666666667 44.6875,29.071180555555554 48.505859375,20.06076388888889 46.07421875,3.6414930555555554 57.25585937500001,3.515625 58.08837890625,22.157118055555557 64.6875,32.65190972222222 77.255859375,29.071180555555554 72.6025390625,42.77777777777777 52.74169921875,76.60156250000001 49.96337890625,100.30815972222223' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=652.8,655.5"
+          }
+        ]
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": 630,
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "creator": {
+        "type": "Person",
+        "nickname": "Bret Vukoder",
+        "email": "58f279e649138b6ef23d1d4160e158ef39fb8b8a"
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interior of room, men at table registering to enter draft",
+          "format": "text/plain",
+          "language": "en",
+          "purpose": "describing"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Object"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "tagging",
+          "value": "Action"
+        }
+      ],
+      "target": {
+        "id": "http://mediaecology.dartmouth.edu/collections/signalcorps/DraftandMobilizationActivities111-h-1107-r1_5Mbs.mp4",
+        "type": "Video",
+        "selector": [
+          {
+            "type": "SvgSelector",
+            "value": "<svg:svg viewBox='0 0 100 100' preserveAspectRatio='none'><polygon points='24.443359375,93.33333333333333 26.6650390625,22.22222222222222 87.70751953125,23.20746527777778 87.77587890625,97.15711805555556' /></svg:svg>"
+          },
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "t=57.28,70.0"
+          }
+        ]
+      }
+    }
+  ]
