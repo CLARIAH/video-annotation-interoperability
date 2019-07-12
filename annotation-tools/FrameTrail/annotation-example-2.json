@@ -1,0 +1,1533 @@
+[
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267eefac-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "graphics"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_graphics"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 0,
+				"advene:end": 5954,
+				"value": "t=0.000,5.954"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef038-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "mass"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 5954,
+				"advene:end": 8982,
+				"value": "t=5.954,8.982"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef0c4-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "group"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 8982,
+				"advene:end": 10883,
+				"value": "t=8.982,10.883"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef150-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "mass"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 10883,
+				"advene:end": 14249,
+				"value": "t=10.883,14.249"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef1dc-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_person",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "person, mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 14249,
+				"advene:end": 16949,
+				"value": "t=14.249,16.949"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef268-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_person"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "person,mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 16949,
+				"advene:end": 25383,
+				"value": "t=16.949,25.383"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef2f4-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "person, mass"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_person",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 25383,
+				"advene:end": 28949,
+				"value": "t=25.383,28.949"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef39e-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "group,mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 28949,
+				"advene:end": 31949,
+				"value": "t=28.949,31.949"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef434-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_person",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "person,mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 31949,
+				"advene:end": 39916,
+				"value": "t=31.949,39.916"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef4c0-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "group,mass"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 39916,
+				"advene:end": 46049,
+				"value": "t=39.916,46.049"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef54c-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 46049,
+				"advene:end": 47449,
+				"value": "t=46.049,47.449"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef5d8-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "group,mass"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 47449,
+				"advene:end": 55382,
+				"value": "t=47.449,55.382"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef66e-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 55382,
+				"advene:end": 55716,
+				"value": "t=55.382,55.716"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef6fa-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 55716,
+				"advene:end": 57252,
+				"value": "t=55.716,57.252"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef786-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 58049,
+				"advene:end": 58416,
+				"value": "t=58.049,58.416"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef81c-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 58416,
+				"advene:end": 59818,
+				"value": "t=58.416,59.818"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef8a8-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 60782,
+				"advene:end": 61116,
+				"value": "t=60.782,61.116"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef934-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "group, urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 61116,
+				"advene:end": 62882,
+				"value": "t=61.116,62.882"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267ef9c0-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban, group"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 62882,
+				"advene:end": 65450,
+				"value": "t=62.882,65.450"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efa4c-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 65450,
+				"advene:end": 65747,
+				"value": "t=65.450,65.747"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efad8-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "person, urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_person"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 65747,
+				"advene:end": 67949,
+				"value": "t=65.747,67.949"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efb64-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_group"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "group, urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 67949,
+				"advene:end": 70116,
+				"value": "t=67.949,70.116"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efbf0-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 70116,
+				"advene:end": 70382,
+				"value": "t=70.116,70.382"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efc86-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "mass, urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 70382,
+				"advene:end": 72782,
+				"value": "t=70.382,72.782"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efd12-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "mass,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_mass"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 72782,
+				"advene:end": 74749,
+				"value": "t=72.782,74.749"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efd9e-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "urban, object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 74749,
+				"advene:end": 75116,
+				"value": "t=74.749,75.116"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efe34-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 75116,
+				"advene:end": 77182,
+				"value": "t=75.116,77.182"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267efec0-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 77182,
+				"advene:end": 79416,
+				"value": "t=77.182,79.416"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267eff56-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 79416,
+				"advene:end": 79849,
+				"value": "t=79.416,79.849"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267effd8-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 79849,
+				"advene:end": 82116,
+				"value": "t=79.849,82.116"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f0064-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 82116,
+				"advene:end": 84049,
+				"value": "t=82.116,84.049"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f00fa-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 84049,
+				"advene:end": 84449,
+				"value": "t=84.049,84.449"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f0186-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 84449,
+				"advene:end": 86416,
+				"value": "t=84.449,86.416"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f0212-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 86416,
+				"advene:end": 86782,
+				"value": "t=86.416,86.782"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f029e-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 86782,
+				"advene:end": 88716,
+				"value": "t=86.782,88.716"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f032a-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 88716,
+				"advene:end": 89082,
+				"value": "t=88.716,89.082"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f03b6-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 89082,
+				"advene:end": 89849,
+				"value": "t=89.082,89.849"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f0442-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 89849,
+				"advene:end": 90249,
+				"value": "t=89.849,90.249"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f04ce-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object, urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 90249,
+				"advene:end": 91049,
+				"value": "t=90.249,91.049"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f055a-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 91049,
+				"advene:end": 91649,
+				"value": "t=91.049,91.649"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f05e6-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+				]
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 91649,
+				"advene:end": 92149,
+				"value": "t=91.649,92.149"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f0672-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 92149,
+				"advene:end": 92549,
+				"value": "t=92.149,92.549"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f06fe-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 92549,
+				"advene:end": 93016,
+				"value": "t=92.549,93.016"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f078a-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": "http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object"
+			},
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object"
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 93016,
+				"advene:end": 93416,
+				"value": "t=93.016,93.416"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	},
+	{
+		"id": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9/267f0816-7180-11e9-8f47-0242ac130003",
+		"type": "Annotation",
+		"sceneId": "267f1338-7180-11e9-8f47-0242ac130003",
+		"created": "2019-03-29T11:47:56",
+		"creator": "local:user/adatsche",
+		"advene:color": "#e09500",
+		"advene:type": "ImageContent",
+		"advene:type_title": "Motf | Image Content",
+		"body": [
+			{
+				"type": "TextualBody",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"value": "object,urban"
+			},
+			{
+				"type": "ao:PredefinedValuesAnnotationType",
+				"annotationType": "http://ada.filmontology.org/resource/2019/01/29/AnnotationType/ImageContent",
+				"annotationValue": [
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_object",
+					"http://ada.filmontology.org/resource/2019/01/29/AnnotationValue/ImageContent_urban"
+				]
+			}
+		],
+		"target": {
+			"selector": {
+				"type": "FragmentSelector",
+				"conformsTo": "http://www.w3.org/TR/media-frags/",
+				"advene:begin": 93416,
+				"advene:end": 93716,
+				"value": "t=93.416,93.716"
+			},
+			"source": "http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9"
+		}
+	}
+]
