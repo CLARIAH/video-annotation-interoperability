@@ -1,0 +1,36 @@
+
+    [
+        {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "id": "urn:nl-mpi-tools-elan-eaf:31dfcd24-e04c-4e75-b698-a91af6925b39#collection1",
+            "type": "AnnotationCollection",
+            "label": "Tier 1",
+            "creator": "John Bell",
+            "total": 1,
+            "first": {
+                "id": "urn:nl-mpi-tools-elan-eaf:31dfcd24-e04c-4e75-b698-a91af6925b39#collection1Page1",
+                "type": "AnnotationPage",
+                "startIndex": 0,
+                "items": [
+                    {
+                        "id": "http://example.com/annotations/195",
+                        "type": "Annotation",
+                        "body": {
+                            "value": "Example",
+                            "format": "text/plain",
+                            "type": "TextualBody"
+                        },
+                        "target": {
+                            "id": "http://mediaecology.dartmouth.edu/other/KTLAEulaLove.mp4",
+                            "type": "Video",
+                            "selector": {
+                                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                "type": "FragmentSelector",
+                                "value": "t=2.019,13.007"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
