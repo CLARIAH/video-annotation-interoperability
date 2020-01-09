@@ -2,6 +2,7 @@
 Proposal for crosswalks between a number of video annotation tools, including the CLARIAH Web Annotation tool, ELAN, FrameTrail, VIAN and Waldorf.js.
 
 [Blog post on our first meeting (12-13 July 2018)](https://clariah.github.io/mediasuite-blog/blog/2018/07/11/Clariah-annotation-expert-meeting)
+
 [Blog post on our second meeting (13 July 2019.](https://www.clariah.nl/en/new/blogs/vaint-video-interoperability-interest-group-second-meeting-july-13-2019)
 
 ## Introduction
