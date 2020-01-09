@@ -2,7 +2,7 @@
 Proposal for crosswalks between a number of video annotation tools, including the CLARIAH Web Annotation tool, ELAN, FrameTrail, VIAN and Waldorf.js.
 
 [Blog post on our first meeting (12-13 July 2018)](https://clariah.github.io/mediasuite-blog/blog/2018/07/11/Clariah-annotation-expert-meeting)
-[Blog post on our second meeting (13 July 2019.)(https://www.clariah.nl/en/new/blogs/vaint-video-interoperability-interest-group-second-meeting-july-13-2019)
+[Blog post on our second meeting (13 July 2019.](https://www.clariah.nl/en/new/blogs/vaint-video-interoperability-interest-group-second-meeting-july-13-2019)
 
 ## Introduction
 Digital annotation is a common activity among scholars, and takes places across different data and media types and across different digital tools. Digital annotation is one of the most active research fields in the last years. The conditions in order to use annotations in computer aided research and for the design of new digital research tools have improved significantly. The recent approval of the W3C Web Annotation Data Model (formerly Open Annotation) as W3C recommendation marks a big step in this respect, allowing to gain interoperability of annotation data across annotation types, tools, research practices and domains.
