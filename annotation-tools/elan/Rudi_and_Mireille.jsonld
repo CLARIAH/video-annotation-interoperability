@@ -1,0 +1,1791 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://www.w3.org/ns/ldp.jsonld",
+        {
+            "advene": "http://www.advene.org/ns/webannotation/",
+            "local": "http://www.advene.org/ns/_local/"
+        }
+    ],
+    "first": {
+        "id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp/page1",
+        "items": [
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a32",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": " Ich möchte so gerne einen kleinen Sketch machen mit Mireille nur habe Ich ein bischen Problemen mit dem Deutsch",
+                    "value": " Ich möchte so gerne einen kleinen Sketch machen mit Mireille nur habe Ich ein bischen Problemen mit dem Deutsch"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 1990,
+                        "advene:end": 7000,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=1.990,7.000"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a33",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Da ist mir was eingefallen sie sie war so oft auf Tournee in Deutschland, sie kennt eigentlich alle Namen von Städten in Deutschland ",
+                    "value": "Da ist mir was eingefallen sie sie war so oft auf Tournee in Deutschland, sie kennt eigentlich alle Namen von Städten in Deutschland "
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 8800,
+                        "advene:end": 14860,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=8.800,14.860"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a34",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "und da möchte ich ein Sketsch machen mit nur Städtenamen",
+                    "value": "und da möchte ich ein Sketsch machen mit nur Städtenamen"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 14860,
+                        "advene:end": 18140,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=14.860,18.140"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a35",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "eh, das zeigen ich Ihnen mal damit  sie sich da auch mal verständigen kann, ja, ist für ihnen mal interessant ",
+                    "value": "eh, das zeigen ich Ihnen mal damit  sie sich da auch mal verständigen kann, ja, ist für ihnen mal interessant "
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 18390,
+                        "advene:end": 22550,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=18.390,22.550"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a36",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Ein kleinen Quiz ja, keine Sätze, keine Worter, nur Namen von Städte, ja, jetzt gehts loss ",
+                    "value": "Ein kleinen Quiz ja, keine Sätze, keine Worter, nur Namen von Städte, ja, jetzt gehts loss "
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 22550,
+                        "advene:end": 26440,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=22.550,26.440"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a37",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Ahumm",
+                    "value": "Ahumm"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 26970,
+                        "advene:end": 27870,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=26.970,27.870"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a38",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Freiburg",
+                    "value": "Freiburg"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 28680,
+                        "advene:end": 29500,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=28.680,29.500"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a39",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Ahh",
+                    "value": "Ahh"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 30490,
+                        "advene:end": 30850,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=30.490,30.850"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a40",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Schonau",
+                    "value": "Schonau"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 33400,
+                        "advene:end": 34440,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=33.400,34.440"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a41",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Wipperfür",
+                    "value": "Wipperfür"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 37600,
+                        "advene:end": 39170,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=37.600,39.170"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a42",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Oberhausen",
+                    "value": "Oberhausen"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 40620,
+                        "advene:end": 42090,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=40.620,42.090"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a43",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Darmstadt",
+                    "value": "Darmstadt"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 49610,
+                        "advene:end": 50520,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=49.610,50.520"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a44",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Steinhagen",
+                    "value": "Steinhagen"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 54140,
+                        "advene:end": 55040,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=54.140,55.040"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a45",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Augsburg",
+                    "value": "Augsburg"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 62660,
+                        "advene:end": 63680,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=62.660,63.680"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a46",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Dortmund",
+                    "value": "Dortmund"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 65200,
+                        "advene:end": 66030,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=65.200,66.030"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a47",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Lippe",
+                    "value": "Lippe"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 66030,
+                        "advene:end": 66990,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=66.030,66.990"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a48",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Oder-Nase, eh Oder-Neisse",
+                    "value": "Oder-Nase, eh Oder-Neisse"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 67610,
+                        "advene:end": 69640,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=67.610,69.640"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a49",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Baden Baden",
+                    "value": "Baden Baden"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 70560,
+                        "advene:end": 71660,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=70.560,71.660"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a50",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Liebenau",
+                    "value": "Liebenau"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 72720,
+                        "advene:end": 73870,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=72.720,73.870"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a51",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Küssnach",
+                    "value": "Küssnach"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 75760,
+                        "advene:end": 76450,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=75.760,76.450"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a52",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Buxtehude!",
+                    "value": "Buxtehude!"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 87500,
+                        "advene:end": 88950,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=87.500,88.950"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a53",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Neanderthal",
+                    "value": "Neanderthal"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 89180,
+                        "advene:end": 90370,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=89.180,90.370"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a54",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Aschaffenburg",
+                    "value": "Aschaffenburg"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 90700,
+                        "advene:end": 92130,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=90.700,92.130"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a55",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Totenhausen",
+                    "value": "Totenhausen"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 96300,
+                        "advene:end": 97790,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=96.300,97.790"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a56",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Feuerbach",
+                    "value": "Feuerbach"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 98020,
+                        "advene:end": 98730,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=98.020,98.730"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a57",
+                "@type": "Annotation",
+                "advene:color": "#AAAAEE",
+                "advene:type": "phrase__RC_phrase",
+                "advene:type_color": "#AAAAEE",
+                "advene:type_title": "Phrase__Rc_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Pang",
+                    "value": "Pang"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 100240,
+                        "advene:end": 100960,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=100.240,100.960"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a58",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Bitburg",
+                    "value": "Bitburg"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 29900,
+                        "advene:end": 30460,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=29.900,30.460"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a59",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Hmm, Paris",
+                    "value": "Hmm, Paris"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 35840,
+                        "advene:end": 37020,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=35.840,37.020"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a60",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Bochdumm",
+                    "value": "Bochdumm"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 52280,
+                        "advene:end": 52830,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=52.280,52.830"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a61",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Mönchhausen",
+                    "value": "Mönchhausen"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 74020,
+                        "advene:end": 74890,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=74.020,74.890"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a62",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Mannheim",
+                    "value": "Mannheim"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 79500,
+                        "advene:end": 80170,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=79.500,80.170"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a63",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Mariahilf",
+                    "value": "Mariahilf"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 108250,
+                        "advene:end": 109480,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=108.250,109.480"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a64",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Klagenfurt",
+                    "value": "Klagenfurt"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 110780,
+                        "advene:end": 112120,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=110.780,112.120"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a65",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Weinheim",
+                    "value": "Weinheim"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 112810,
+                        "advene:end": 113980,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=112.810,113.980"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a66",
+                "@type": "Annotation",
+                "advene:color": "#ccaaaa",
+                "advene:type": "phrase__MM_phrase",
+                "advene:type_color": "#ccaaaa",
+                "advene:type_title": "Phrase__Mm_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Bonn",
+                    "value": "Bonn"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 119820,
+                        "advene:end": 120760,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=119.820,120.760"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a67",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "I would like so much to do a little sketch with Mireille but I have a bit of a problem with the German language",
+                    "value": "I would like so much to do a little sketch with Mireille but I have a bit of a problem with the German language"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 1990,
+                        "advene:end": 7000,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=1.990,7.000"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a68",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Then I thought of the fact that she's on tour in Germany a lot, so she knows almost all the names of cities in Germany",
+                    "value": "Then I thought of the fact that she's on tour in Germany a lot, so she knows almost all the names of cities in Germany"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 8800,
+                        "advene:end": 14860,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=8.800,14.860"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a69",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "and therefore I would like to do a sketch with only city names",
+                    "value": "and therefore I would like to do a sketch with only city names"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 14860,
+                        "advene:end": 18140,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=14.860,18.140"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a70",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "eh, I will show you so, so that you can understand, that'll be interesting for you ",
+                    "value": "eh, I will show you so, so that you can understand, that'll be interesting for you "
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 18390,
+                        "advene:end": 22550,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=18.390,22.550"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a71",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "A little quiz, no sentences, just city names, here we go",
+                    "value": "A little quiz, no sentences, just city names, here we go"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 22550,
+                        "advene:end": 26440,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=22.550,26.440"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a72",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Ahum",
+                    "value": "Ahum"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 26970,
+                        "advene:end": 27870,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=26.970,27.870"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a73",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Freiburg",
+                    "value": "Freiburg"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 28680,
+                        "advene:end": 29500,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=28.680,29.500"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a89",
+                "@type": "Annotation",
+                "advene:color": "#ffcc52",
+                "advene:type": "translation__RCft",
+                "advene:type_color": "#ffcc52",
+                "advene:type_title": "Translation__Rcft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "a89",
+                    "value": ""
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 30490,
+                        "advene:end": 30850,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=30.490,30.850"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a90",
+                "@type": "Annotation",
+                "advene:color": "#AACCAA",
+                "advene:type": "translation__MM_ft",
+                "advene:type_color": "#AACCAA",
+                "advene:type_title": "Translation__Mm_Ft",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Biteburgh",
+                    "value": "Biteburgh"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 29900,
+                        "advene:end": 30460,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=29.900,30.460"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a74",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Essen?",
+                    "value": "Essen?"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 44730,
+                        "advene:end": 45160,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=44.730,45.160"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a75",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Kassel?",
+                    "value": "Kassel?"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 46900,
+                        "advene:end": 47380,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=46.900,47.380"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a76",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Frankfurt?",
+                    "value": "Frankfurt?"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 47560,
+                        "advene:end": 48110,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=47.560,48.110"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a77",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Bochdumm?",
+                    "value": "Bochdumm?"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 52830,
+                        "advene:end": 53310,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=52.830,53.310"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a78",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Steinhagen?",
+                    "value": "Steinhagen?"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 54920,
+                        "advene:end": 56060,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=54.920,56.060"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a79",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Karlsruhe",
+                    "value": "Karlsruhe"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 116130,
+                        "advene:end": 117350,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=116.130,117.350"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a80",
+                "@type": "Annotation",
+                "advene:color": "#deadbe",
+                "advene:type": "phrase__OM_phrase",
+                "advene:type_color": "#deadbe",
+                "advene:type_title": "Phrase__Om_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "?",
+                    "value": "?"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 118400,
+                        "advene:end": 119510,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=118.400,119.510"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a81",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Aha",
+                    "value": "Aha"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 76480,
+                        "advene:end": 77660,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=76.480,77.660"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a82",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Mainz",
+                    "value": "Mainz"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 78670,
+                        "advene:end": 79230,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=78.670,79.230"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a83",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Braunschweig",
+                    "value": "Braunschweig"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 80510,
+                        "advene:end": 81310,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=80.510,81.310"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a84",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Weinfort",
+                    "value": "Weinfort"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 82660,
+                        "advene:end": 83570,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=82.660,83.570"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a85",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Rotweil",
+                    "value": "Rotweil"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 84260,
+                        "advene:end": 85200,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=84.260,85.200"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a86",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Ochsenkopf",
+                    "value": "Ochsenkopf"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 85780,
+                        "advene:end": 86740,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=85.780,86.740"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a87",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Au rich",
+                    "value": "Au rich"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 101330,
+                        "advene:end": 103150,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=101.330,103.150"
+                    },
+                    "source": ""
+                }
+            },
+            {
+                "@id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp#a88",
+                "@type": "Annotation",
+                "advene:color": "#fedcba",
+                "advene:type": "phrase__EM_phrase",
+                "advene:type_color": "#fedcba",
+                "advene:type_title": "Phrase__Em_Phrase",
+                "body": {
+                    "@type": "Text",
+                    "advene:mimetype": "text/plain",
+                    "advene:representation": "Binge",
+                    "value": "Binge"
+                },
+                "created": "2020-10-02T15:45:12",
+                "creator": {
+                    "@id": "local:user/oaubert",
+                    "@type": "Person",
+                    "nick": "oaubert"
+                },
+                "target": {
+                    "selector": {
+                        "@type": "FragmentSelector",
+                        "advene:begin": 104480,
+                        "advene:end": 105470,
+                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                        "value": "t=104.480,105.470"
+                    },
+                    "source": ""
+                }
+            }
+        ],
+        "startIndex": 0,
+        "type": "AnnotationPage"
+    },
+    "id": "file:///home/oaubert/doc/projects/vaint/video-annotation-interoperability/annotation-tools/advene/Rudi_and_Mireille.azp",
+    "label": "Template package",
+    "totalItems": 59,
+    "type": "AnnotationCollection"
+}
