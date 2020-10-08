@@ -69,7 +69,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=1.990,7.000"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -99,7 +99,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=8.800,14.860"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -129,7 +129,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=14.860,18.140"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -159,7 +159,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=18.390,22.550"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -189,7 +189,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=22.550,26.440"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -219,7 +219,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=26.970,27.870"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -249,7 +249,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=28.680,29.500"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -279,7 +279,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=30.490,30.850"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -309,7 +309,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=33.400,34.440"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -339,7 +339,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=37.600,39.170"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -369,7 +369,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=40.620,42.090"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -399,7 +399,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=49.610,50.520"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -429,7 +429,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=54.140,55.040"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -459,7 +459,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=62.660,63.680"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -489,7 +489,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=65.200,66.030"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -519,7 +519,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=66.030,66.990"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -549,7 +549,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=67.610,69.640"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -579,7 +579,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=70.560,71.660"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -609,7 +609,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=72.720,73.870"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -639,7 +639,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=75.760,76.450"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -669,7 +669,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=87.500,88.950"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -699,7 +699,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=89.180,90.370"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -729,7 +729,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=90.700,92.130"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -759,7 +759,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=96.300,97.790"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -789,7 +789,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=98.020,98.730"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -819,7 +819,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=100.240,100.960"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     }
                 ],
@@ -870,7 +870,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=29.900,30.460"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -900,7 +900,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=35.840,37.020"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -930,7 +930,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=52.280,52.830"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -960,7 +960,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=74.020,74.890"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -990,7 +990,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=79.500,80.170"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1020,7 +1020,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=108.250,109.480"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1050,7 +1050,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=110.780,112.120"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1080,7 +1080,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=112.810,113.980"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1110,7 +1110,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=119.820,120.760"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     }
                 ],
@@ -1161,7 +1161,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=1.990,7.000"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1191,7 +1191,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=8.800,14.860"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1221,7 +1221,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=14.860,18.140"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1251,7 +1251,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=18.390,22.550"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1281,7 +1281,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=22.550,26.440"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1311,7 +1311,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=26.970,27.870"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1341,7 +1341,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=28.680,29.500"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1371,7 +1371,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=30.490,30.850"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     }
                 ],
@@ -1422,7 +1422,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=29.900,30.460"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     }
                 ],
@@ -1473,7 +1473,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=44.730,45.160"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1503,7 +1503,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=46.900,47.380"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1533,7 +1533,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=47.560,48.110"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1563,7 +1563,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=52.830,53.310"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1593,7 +1593,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=54.920,56.060"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1623,7 +1623,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=116.130,117.350"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1653,7 +1653,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=118.400,119.510"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     }
                 ],
@@ -1704,7 +1704,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=76.480,77.660"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1734,7 +1734,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=78.670,79.230"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1764,7 +1764,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=80.510,81.310"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1794,7 +1794,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=82.660,83.570"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1824,7 +1824,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=84.260,85.200"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1854,7 +1854,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=85.780,86.740"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1884,7 +1884,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=101.330,103.150"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     },
                     {
@@ -1914,7 +1914,7 @@
                                 "conformsTo": "http://www.w3.org/TR/media-frags/",
                                 "value": "t=104.480,105.470"
                             },
-                            "source": ""
+                            "source": "http://example.com/videos/Rudi_and_Mireille.mp4"
                         }
                     }
                 ],
