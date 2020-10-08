@@ -25,12 +25,12 @@ the previous JSON-LD file inside Advene, to be able to compare them.
 
 From the Advene sources, you can run
 
-`scripts/import_package list` to get a list of available import
+`scripts/advene_import list` to get a list of available import
 filters.
 
 Then you can run
 
-`scripts/import_package ELAN_importer source.eaf destination.azp`
+`scripts/advene_import ELAN_importer source.eaf destination.azp`
 
 to export the `source.eaf` ELAN file into a `destination.azp` Advene package, which you can open in Advene.
 
@@ -41,12 +41,12 @@ file...` menu.
 
 From the Advene sources, you can run
 
-`scripts/export_package list` to get a list of available export
+`scripts/advene_export list` to get a list of available export
 filters.
 
 Then you can run
 
-`scripts/import_package -o split WebAnnotationExporter source.azp destination.jsonld`
+`scripts/advene_export -o split WebAnnotationExporter source.azp destination.jsonld`
 
 to export the `source.azp` Advene package into a `destination.jsonld`
 webannotation file (note: the `-o split` option is necessary to
