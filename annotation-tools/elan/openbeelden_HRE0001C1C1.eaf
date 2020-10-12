@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-12T11:50:09+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="9230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="9280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="16620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="23500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="30120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="31880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="37770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="42500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="48130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="50290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="55350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="55600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="59400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="59980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="61040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="61170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="66110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="66350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="67830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="67830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="74090"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="speech" TIER_ID="Transcript">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Plaats van handeling: Doetinchem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Onderwerp: machineschrijven</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Klaar?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Af</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Men hoeft niet alleen te zijn om eenzaam te worden</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Hetzelfde examen met zijn tweehonderden, waarbij alles om vaardigheid en snelheid draait, maakt er wel tweehonderd eenmansbedrijfjes van</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Miljoenen jaren geleden gebruikten we onze vingers en tenen om mee in bomen te klimmen, en sommigen zouden dat nog wel willen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Anderen zitten al echt lekker machine te schrijven en verbergen hun heimwee naar de vrije tenen onder de tafel</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Er moest onder andere met honderd en honderddertig aanslagen per minuut gewerkt worden, dat is getikt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Ketelbinkies en bramcijfertjes(?) zijn uit de mode, de goede typiste doorziet alles</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Soms doet de machine niet mee... u ko... u ko...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Wat toch?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>U komt, u kookt, u kost, u koost, u koert, u koppelt?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>U kon het misschien wel niet</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>De examencommissie beslist dat van tweehonderd jeugdige personen, uitgetikt en moegeklopt in Doetinchem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="speech" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

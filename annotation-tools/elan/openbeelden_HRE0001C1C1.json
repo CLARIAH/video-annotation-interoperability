@@ -1,0 +1,300 @@
+[{
+  "total": 15,
+  "generator": "ELAN Multimedia Annotator 5.9",
+  "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#collection1",
+  "label": "Transcript",
+  "type": "AnnotationCollection",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "first": {
+    "startIndex": "0",
+    "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#collection1-page1",
+    "type": "AnnotationPage",
+    "items": [
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a1",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Plaats van handeling: Doetinchem"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=0.670,2.520"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a2",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Onderwerp: machineschrijven"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=2.760,4.410"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a3",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Klaar?"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=4.560,5.100"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a4",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Af"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=5.100,5.770"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a5",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Men hoeft niet alleen te zijn om eenzaam te worden"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=6.400,9.230"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a6",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Hetzelfde examen met zijn tweehonderden, waarbij alles om vaardigheid en snelheid draait, maakt er wel tweehonderd eenmansbedrijfjes van"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=9.280,16.620"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a7",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Miljoenen jaren geleden gebruikten we onze vingers en tenen om mee in bomen te klimmen, en sommigen zouden dat nog wel willen"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=23.500,30.120"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a8",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Anderen zitten al echt lekker machine te schrijven en verbergen hun heimwee naar de vrije tenen onder de tafel"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=31.880,37.770"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a9",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Er moest onder andere met honderd en honderddertig aanslagen per minuut gewerkt worden, dat is getikt"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=42.500,48.130"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a10",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Ketelbinkies en bramcijfertjes(?) zijn uit de mode, de goede typiste doorziet alles"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=50.290,55.350"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a11",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Soms doet de machine niet mee... u ko... u ko..."
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=55.600,59.400"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a12",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "Wat toch?"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=59.980,61.040"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a13",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "U komt, u kookt, u kost, u koost, u koert, u koppelt?"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=61.170,66.110"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a14",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "U kon het misschien wel niet"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=66.350,67.830"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      },
+      {
+        "id": "urn:nl-mpi-tools-elan-eaf:0469ede8-dadb-4882-895d-f5f5ce80aa80#a15",
+        "type": "Annotation",
+        "body": {
+          "purpose": "transcribing",
+          "format": "text/plain",
+          "type": "TextualBody",
+          "value": "De examencommissie beslist dat van tweehonderd jeugdige personen, uitgetikt en moegeklopt in Doetinchem"
+        },
+        "target": {
+          "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "t=67.830,74.090"
+          },
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "type": "video/mp4"
+        }
+      }
+    ]
+  }
+}]
