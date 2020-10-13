@@ -19,6 +19,7 @@
           "type": "TextualBody",
           "value": "Plaats van handeling: Doetinchem"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -38,6 +39,7 @@
           "type": "TextualBody",
           "value": "Onderwerp: machineschrijven"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -57,6 +59,7 @@
           "type": "TextualBody",
           "value": "Klaar?"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -76,6 +79,7 @@
           "type": "TextualBody",
           "value": "Af"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -95,6 +99,7 @@
           "type": "TextualBody",
           "value": "Men hoeft niet alleen te zijn om eenzaam te worden"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -114,6 +119,7 @@
           "type": "TextualBody",
           "value": "Hetzelfde examen met zijn tweehonderden, waarbij alles om vaardigheid en snelheid draait, maakt er wel tweehonderd eenmansbedrijfjes van"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -133,6 +139,7 @@
           "type": "TextualBody",
           "value": "Miljoenen jaren geleden gebruikten we onze vingers en tenen om mee in bomen te klimmen, en sommigen zouden dat nog wel willen"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -152,6 +159,7 @@
           "type": "TextualBody",
           "value": "Anderen zitten al echt lekker machine te schrijven en verbergen hun heimwee naar de vrije tenen onder de tafel"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -171,6 +179,7 @@
           "type": "TextualBody",
           "value": "Er moest onder andere met honderd en honderddertig aanslagen per minuut gewerkt worden, dat is getikt"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -190,6 +199,7 @@
           "type": "TextualBody",
           "value": "Ketelbinkies en bramcijfertjes(?) zijn uit de mode, de goede typiste doorziet alles"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -209,6 +219,7 @@
           "type": "TextualBody",
           "value": "Soms doet de machine niet mee... u ko... u ko..."
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -228,6 +239,7 @@
           "type": "TextualBody",
           "value": "Wat toch?"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -247,6 +259,7 @@
           "type": "TextualBody",
           "value": "U komt, u kookt, u kost, u koost, u koert, u koppelt?"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -266,6 +279,7 @@
           "type": "TextualBody",
           "value": "U kon het misschien wel niet"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -285,6 +299,7 @@
           "type": "TextualBody",
           "value": "De examencommissie beslist dat van tweehonderd jeugdige personen, uitgetikt en moegeklopt in Doetinchem"
         },
+        "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
           "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
