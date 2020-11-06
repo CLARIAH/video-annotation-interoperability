@@ -23,7 +23,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#1.990-7.000",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=1.990,7.000",
             "type": "video/mp4"
           }
         },
@@ -38,7 +38,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#8.800-14.860",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=8.800,14.860",
             "type": "video/mp4"
           }
         },
@@ -53,7 +53,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#14.860-18.140",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=14.860,18.140",
             "type": "video/mp4"
           }
         },
@@ -68,7 +68,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#18.390-22.550",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=18.390,22.550",
             "type": "video/mp4"
           }
         },
@@ -83,7 +83,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#22.550-26.440",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=22.550,26.440",
             "type": "video/mp4"
           }
         },
@@ -98,7 +98,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#26.970-27.870",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=26.970,27.870",
             "type": "video/mp4"
           }
         },
@@ -113,7 +113,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#28.680-29.500",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=28.680,29.500",
             "type": "video/mp4"
           }
         },
@@ -128,7 +128,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#30.490-30.850",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=30.490,30.850",
             "type": "video/mp4"
           }
         },
@@ -143,7 +143,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#33.400-34.440",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=33.400,34.440",
             "type": "video/mp4"
           }
         },
@@ -158,7 +158,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#37.600-39.170",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=37.600,39.170",
             "type": "video/mp4"
           }
         },
@@ -173,7 +173,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#40.620-42.090",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=40.620,42.090",
             "type": "video/mp4"
           }
         },
@@ -188,7 +188,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#49.610-50.520",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=49.610,50.520",
             "type": "video/mp4"
           }
         },
@@ -203,7 +203,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#54.140-55.040",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=54.140,55.040",
             "type": "video/mp4"
           }
         },
@@ -218,7 +218,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#62.660-63.680",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=62.660,63.680",
             "type": "video/mp4"
           }
         },
@@ -233,7 +233,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#65.200-66.030",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=65.200,66.030",
             "type": "video/mp4"
           }
         },
@@ -248,7 +248,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#66.030-66.990",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=66.030,66.990",
             "type": "video/mp4"
           }
         },
@@ -263,7 +263,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#67.610-69.640",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=67.610,69.640",
             "type": "video/mp4"
           }
         },
@@ -278,7 +278,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#70.560-71.660",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=70.560,71.660",
             "type": "video/mp4"
           }
         },
@@ -293,7 +293,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#72.720-73.870",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=72.720,73.870",
             "type": "video/mp4"
           }
         },
@@ -308,7 +308,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#75.760-76.450",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=75.760,76.450",
             "type": "video/mp4"
           }
         },
@@ -323,7 +323,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#87.500-88.950",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=87.500,88.950",
             "type": "video/mp4"
           }
         },
@@ -338,7 +338,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#89.180-90.370",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=89.180,90.370",
             "type": "video/mp4"
           }
         },
@@ -353,7 +353,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#90.700-92.130",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=90.700,92.130",
             "type": "video/mp4"
           }
         },
@@ -368,7 +368,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#96.300-97.790",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=96.300,97.790",
             "type": "video/mp4"
           }
         },
@@ -383,7 +383,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#98.020-98.730",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=98.020,98.730",
             "type": "video/mp4"
           }
         },
@@ -398,7 +398,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#100.240-100.960",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=100.240,100.960",
             "type": "video/mp4"
           }
         }
@@ -429,7 +429,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#29.900-30.460",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=29.900,30.460",
             "type": "video/mp4"
           }
         },
@@ -444,7 +444,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#35.840-37.020",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=35.840,37.020",
             "type": "video/mp4"
           }
         },
@@ -459,7 +459,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#52.280-52.830",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=52.280,52.830",
             "type": "video/mp4"
           }
         },
@@ -474,7 +474,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#74.020-74.890",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=74.020,74.890",
             "type": "video/mp4"
           }
         },
@@ -489,7 +489,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#79.400-80.170",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=79.400,80.170",
             "type": "video/mp4"
           }
         },
@@ -504,7 +504,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#108.250-109.480",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=108.250,109.480",
             "type": "video/mp4"
           }
         },
@@ -519,7 +519,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#110.780-112.120",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=110.780,112.120",
             "type": "video/mp4"
           }
         },
@@ -534,7 +534,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#112.810-113.980",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=112.810,113.980",
             "type": "video/mp4"
           }
         },
@@ -549,7 +549,7 @@
           },
           "@context": "http://www.w3.org/ns/anno.jsonld",
           "target": {
-            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#119.820-120.760",
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#t=119.820,120.760",
             "type": "video/mp4"
           }
         }
