@@ -21,12 +21,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=0.670,2.520"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#0.670-2.520",
           "type": "video/mp4"
         }
       },
@@ -41,12 +36,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=2.760,4.410"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#2.760-4.410",
           "type": "video/mp4"
         }
       },
@@ -61,12 +51,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=4.560,5.100"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#4.560-5.100",
           "type": "video/mp4"
         }
       },
@@ -81,12 +66,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=5.100,5.770"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#5.100-5.770",
           "type": "video/mp4"
         }
       },
@@ -101,12 +81,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=6.400,9.230"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#6.400-9.230",
           "type": "video/mp4"
         }
       },
@@ -121,12 +96,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=9.280,16.620"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#9.280-16.620",
           "type": "video/mp4"
         }
       },
@@ -141,12 +111,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=23.500,30.120"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#23.500-30.120",
           "type": "video/mp4"
         }
       },
@@ -161,12 +126,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=31.880,37.770"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#31.880-37.770",
           "type": "video/mp4"
         }
       },
@@ -181,12 +141,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=42.500,48.130"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#42.500-48.130",
           "type": "video/mp4"
         }
       },
@@ -201,12 +156,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=50.290,55.350"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#50.290-55.350",
           "type": "video/mp4"
         }
       },
@@ -221,12 +171,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=55.600,59.400"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#55.600-59.400",
           "type": "video/mp4"
         }
       },
@@ -241,12 +186,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=59.980,61.040"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#59.980-61.040",
           "type": "video/mp4"
         }
       },
@@ -261,12 +201,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=61.170,66.110"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#61.170-66.110",
           "type": "video/mp4"
         }
       },
@@ -281,12 +216,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=66.350,67.830"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#66.350-67.830",
           "type": "video/mp4"
         }
       },
@@ -301,12 +231,7 @@
         },
         "@context": "http://www.w3.org/ns/anno.jsonld",
         "target": {
-          "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "t=67.830,74.090"
-          },
-          "source": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4",
+          "id": "https://openbeelden.nl/files/06/38/638016.638005.WEEKNUMMER672-HRE0001C1C1.mp4#67.830-74.090",
           "type": "video/mp4"
         }
       }

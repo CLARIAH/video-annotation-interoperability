@@ -1,0 +1,559 @@
+[
+  {
+    "creator": "XX",
+    "total": 26,
+    "generator": "ELAN Multimedia Annotator 6.0",
+    "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#collection1",
+    "label": "RC_phrase",
+    "type": "AnnotationCollection",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "first": {
+      "startIndex": "0",
+      "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#collection1-page1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a32",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": " Ich möchte so gerne einen kleinen Sketch machen mit Mireille nur habe Ich ein bischen Problemen mit dem Deutsch"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#1.990-7.000",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a33",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Da ist mir was eingefallen sie sie war so oft auf Tournee in Deutschland, sie kennt eigentlich alle Namen von Städten in Deutschland "
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#8.800-14.860",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a34",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "und da möchte ich ein Sketsch machen mit nur Städtenamen"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#14.860-18.140",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a35",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "eh, das zeigen ich Ihnen mal damit  sie sich da auch mal verständigen kann, ja, ist für ihnen mal interessant "
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#18.390-22.550",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a36",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Ein kleinen Quiz ja, keine Sätze, keine Worter, nur Namen von Städte, ja, jetzt gehts loss "
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#22.550-26.440",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a37",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Ahumm"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#26.970-27.870",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a38",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Freiburg"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#28.680-29.500",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a39",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Ahh"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#30.490-30.850",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a40",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Schonau"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#33.400-34.440",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a41",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Wipperfür"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#37.600-39.170",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a42",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Oberhausen"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#40.620-42.090",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a43",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Darmstadt"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#49.610-50.520",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a44",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Steinhagen"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#54.140-55.040",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a45",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Augsburg"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#62.660-63.680",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a46",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Dortmund"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#65.200-66.030",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a47",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Lippe"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#66.030-66.990",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a48",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Oder-Nase, eh Oder-Neisse"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#67.610-69.640",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a49",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Baden Baden"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#70.560-71.660",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a50",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Liebenau"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#72.720-73.870",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a51",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Küssnach"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#75.760-76.450",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a52",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Buxtehude!"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#87.500-88.950",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a53",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Neanderthal"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#89.180-90.370",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a54",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Aschaffenburg"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#90.700-92.130",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a55",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Totenhausen"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#96.300-97.790",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a56",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Feuerbach"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#98.020-98.730",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a57",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Pang"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#100.240-100.960",
+            "type": "video/mp4"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "creator": "XX",
+    "total": 9,
+    "generator": "ELAN Multimedia Annotator 6.0",
+    "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#collection2",
+    "label": "MM_phrase",
+    "type": "AnnotationCollection",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "first": {
+      "startIndex": "0",
+      "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#collection2-page1",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a58",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Bitburg"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#29.900-30.460",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a59",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Hmm, Paris"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#35.840-37.020",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a60",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Bochdumm"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#52.280-52.830",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a61",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Mönchhausen"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#74.020-74.890",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a62",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Mannheim"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#79.400-80.170",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a63",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Mariahilf"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#108.250-109.480",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a64",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Klagenfurt"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#110.780-112.120",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a65",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Weinheim"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#112.810-113.980",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#a66",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "type": "TextualBody",
+            "value": "Bonn"
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4#119.820-120.760",
+            "type": "video/mp4"
+          }
+        }
+      ]
+    }
+  }
+]

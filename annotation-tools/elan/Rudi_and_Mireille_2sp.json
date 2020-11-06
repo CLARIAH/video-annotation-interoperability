@@ -2,7 +2,7 @@
   {
     "creator": "XX",
     "total": 26,
-    "generator": "ELAN Multimedia Annotator 5.9",
+    "generator": "ELAN Multimedia Annotator 6.0",
     "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#collection1",
     "label": "RC_phrase",
     "type": "AnnotationCollection",
@@ -29,7 +29,7 @@
                 "type": "FragmentSelector",
                 "value": "t=1.990,7.000"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -38,7 +38,7 @@
                 "type": "FragmentSelector",
                 "value": "t=1.990,7.000"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -60,7 +60,7 @@
                 "type": "FragmentSelector",
                 "value": "t=8.800,14.860"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -69,7 +69,7 @@
                 "type": "FragmentSelector",
                 "value": "t=8.800,14.860"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -91,7 +91,7 @@
                 "type": "FragmentSelector",
                 "value": "t=14.860,18.140"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -100,7 +100,7 @@
                 "type": "FragmentSelector",
                 "value": "t=14.860,18.140"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -122,7 +122,7 @@
                 "type": "FragmentSelector",
                 "value": "t=18.390,22.550"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -131,7 +131,7 @@
                 "type": "FragmentSelector",
                 "value": "t=18.390,22.550"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -153,7 +153,7 @@
                 "type": "FragmentSelector",
                 "value": "t=22.550,26.440"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -162,7 +162,7 @@
                 "type": "FragmentSelector",
                 "value": "t=22.550,26.440"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -184,7 +184,7 @@
                 "type": "FragmentSelector",
                 "value": "t=26.970,27.870"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -193,7 +193,7 @@
                 "type": "FragmentSelector",
                 "value": "t=26.970,27.870"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -215,7 +215,7 @@
                 "type": "FragmentSelector",
                 "value": "t=28.680,29.500"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -224,7 +224,7 @@
                 "type": "FragmentSelector",
                 "value": "t=28.680,29.500"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -246,7 +246,7 @@
                 "type": "FragmentSelector",
                 "value": "t=30.490,30.850"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -255,7 +255,7 @@
                 "type": "FragmentSelector",
                 "value": "t=30.490,30.850"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -277,7 +277,7 @@
                 "type": "FragmentSelector",
                 "value": "t=33.400,34.440"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -286,7 +286,7 @@
                 "type": "FragmentSelector",
                 "value": "t=33.400,34.440"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -308,7 +308,7 @@
                 "type": "FragmentSelector",
                 "value": "t=37.600,39.170"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -317,7 +317,7 @@
                 "type": "FragmentSelector",
                 "value": "t=37.600,39.170"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -339,7 +339,7 @@
                 "type": "FragmentSelector",
                 "value": "t=40.620,42.090"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -348,7 +348,7 @@
                 "type": "FragmentSelector",
                 "value": "t=40.620,42.090"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -370,7 +370,7 @@
                 "type": "FragmentSelector",
                 "value": "t=49.610,50.520"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -379,7 +379,7 @@
                 "type": "FragmentSelector",
                 "value": "t=49.610,50.520"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -401,7 +401,7 @@
                 "type": "FragmentSelector",
                 "value": "t=54.140,55.040"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -410,7 +410,7 @@
                 "type": "FragmentSelector",
                 "value": "t=54.140,55.040"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -432,7 +432,7 @@
                 "type": "FragmentSelector",
                 "value": "t=62.660,63.680"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -441,7 +441,7 @@
                 "type": "FragmentSelector",
                 "value": "t=62.660,63.680"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -463,7 +463,7 @@
                 "type": "FragmentSelector",
                 "value": "t=65.200,66.030"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -472,7 +472,7 @@
                 "type": "FragmentSelector",
                 "value": "t=65.200,66.030"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -494,7 +494,7 @@
                 "type": "FragmentSelector",
                 "value": "t=66.030,66.990"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -503,7 +503,7 @@
                 "type": "FragmentSelector",
                 "value": "t=66.030,66.990"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -525,7 +525,7 @@
                 "type": "FragmentSelector",
                 "value": "t=67.610,69.640"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -534,7 +534,7 @@
                 "type": "FragmentSelector",
                 "value": "t=67.610,69.640"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -556,7 +556,7 @@
                 "type": "FragmentSelector",
                 "value": "t=70.560,71.660"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -565,7 +565,7 @@
                 "type": "FragmentSelector",
                 "value": "t=70.560,71.660"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -587,7 +587,7 @@
                 "type": "FragmentSelector",
                 "value": "t=72.720,73.870"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -596,7 +596,7 @@
                 "type": "FragmentSelector",
                 "value": "t=72.720,73.870"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -618,7 +618,7 @@
                 "type": "FragmentSelector",
                 "value": "t=75.760,76.450"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -627,7 +627,7 @@
                 "type": "FragmentSelector",
                 "value": "t=75.760,76.450"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -649,7 +649,7 @@
                 "type": "FragmentSelector",
                 "value": "t=87.500,88.950"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -658,7 +658,7 @@
                 "type": "FragmentSelector",
                 "value": "t=87.500,88.950"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -680,7 +680,7 @@
                 "type": "FragmentSelector",
                 "value": "t=89.180,90.370"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -689,7 +689,7 @@
                 "type": "FragmentSelector",
                 "value": "t=89.180,90.370"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -711,7 +711,7 @@
                 "type": "FragmentSelector",
                 "value": "t=90.700,92.130"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -720,7 +720,7 @@
                 "type": "FragmentSelector",
                 "value": "t=90.700,92.130"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -742,7 +742,7 @@
                 "type": "FragmentSelector",
                 "value": "t=96.300,97.790"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -751,7 +751,7 @@
                 "type": "FragmentSelector",
                 "value": "t=96.300,97.790"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -773,7 +773,7 @@
                 "type": "FragmentSelector",
                 "value": "t=98.020,98.730"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -782,7 +782,7 @@
                 "type": "FragmentSelector",
                 "value": "t=98.020,98.730"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -804,7 +804,7 @@
                 "type": "FragmentSelector",
                 "value": "t=100.240,100.960"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -813,7 +813,7 @@
                 "type": "FragmentSelector",
                 "value": "t=100.240,100.960"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -824,7 +824,7 @@
   {
     "creator": "XX",
     "total": 9,
-    "generator": "ELAN Multimedia Annotator 5.9",
+    "generator": "ELAN Multimedia Annotator 6.0",
     "id": "urn:nl-mpi-tools-elan-eaf:76f18e90-78c0-480c-b0d3-296286575a88#collection2",
     "label": "MM_phrase",
     "type": "AnnotationCollection",
@@ -851,7 +851,7 @@
                 "type": "FragmentSelector",
                 "value": "t=29.900,30.460"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -860,7 +860,7 @@
                 "type": "FragmentSelector",
                 "value": "t=29.900,30.460"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -882,7 +882,7 @@
                 "type": "FragmentSelector",
                 "value": "t=35.840,37.020"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -891,7 +891,7 @@
                 "type": "FragmentSelector",
                 "value": "t=35.840,37.020"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -913,7 +913,7 @@
                 "type": "FragmentSelector",
                 "value": "t=52.280,52.830"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -922,7 +922,7 @@
                 "type": "FragmentSelector",
                 "value": "t=52.280,52.830"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -944,7 +944,7 @@
                 "type": "FragmentSelector",
                 "value": "t=74.020,74.890"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -953,7 +953,7 @@
                 "type": "FragmentSelector",
                 "value": "t=74.020,74.890"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -975,7 +975,7 @@
                 "type": "FragmentSelector",
                 "value": "t=79.400,80.170"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -984,7 +984,7 @@
                 "type": "FragmentSelector",
                 "value": "t=79.400,80.170"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -1006,7 +1006,7 @@
                 "type": "FragmentSelector",
                 "value": "t=108.250,109.480"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -1015,7 +1015,7 @@
                 "type": "FragmentSelector",
                 "value": "t=108.250,109.480"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -1037,7 +1037,7 @@
                 "type": "FragmentSelector",
                 "value": "t=110.780,112.120"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -1046,7 +1046,7 @@
                 "type": "FragmentSelector",
                 "value": "t=110.780,112.120"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -1068,7 +1068,7 @@
                 "type": "FragmentSelector",
                 "value": "t=112.810,113.980"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -1077,7 +1077,7 @@
                 "type": "FragmentSelector",
                 "value": "t=112.810,113.980"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
@@ -1099,7 +1099,7 @@
                 "type": "FragmentSelector",
                 "value": "t=119.820,120.760"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.mp4",
               "type": "video/mp4"
             },
             {
@@ -1108,7 +1108,7 @@
                 "type": "FragmentSelector",
                 "value": "t=119.820,120.760"
               },
-              "id": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
+              "source": "file:///C:/MPI/Demo/German_video/1973_clip_1.wav",
               "type": "audio/x-wav"
             }
           ]
